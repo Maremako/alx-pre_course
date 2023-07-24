@@ -1,1 +1,1 @@
-My first readme
+This project need time and focus.
